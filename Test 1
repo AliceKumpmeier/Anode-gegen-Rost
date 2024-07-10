@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anode gegen Rostbildung</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            padding: 20px;
+        }
+        .product-description {
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .product-image {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Anode gegen Rostbildung</h1>
+</header>
+
+<nav>
+    <a href="#home">Startseite</a>
+    <a href="#about">Über das Produkt</a>
+    <a href="#contact">Kontakt</a>
+</nav>
+
+<div class="container">
+    <section id="home">
+        <h2>Willkommen</h2>
+        <p>Willkommen auf der offiziellen Informationsplattform für die Anode gegen Rostbildung an Fahrzeugen. Hier finden Sie alle Details über unser innovatives Produkt.</p>
+    </section>
+
+    <section id="about" class="product-description">
+        <h2>Über das Produkt</h2>
+        <p>Unsere Anode ist speziell entwickelt, um Rostbildung an Fahrzeugen effektiv zu verhindern. Sie bietet folgende Vorteile:</p>
+        <ul>
+            <li>Effektiver Schutz vor Rost</li>
+            <li>Lange Lebensdauer</li>
+            <li>Einfache Installation</li>
+            <li>Kostengünstig</li>
+            <li>Hervorragender Kundenservice</li>
+        </ul>
+        <img src="anode.jpg" alt="Anode gegen Rostbildung" class="product-image">
+        <p>Mit unserer Anode können Sie die Lebensdauer Ihres Fahrzeugs verlängern und dessen Wert erhalten. Ideal für alle Fahrzeugtypen geeignet.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Kontakt</h2>
+        <p>Wenn Sie Fragen oder Anregungen haben, zögern Sie nicht, uns zu kontaktieren:</p>
+        <p>Email: info@anode-gegen-rost.de</p>
+        <p>Telefon: +49 123 456 7890</p>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 Anode gegen Rostbildung. Alle Rechte vorbehalten.</p>
+</footer>
+
+</body>
+</html>
